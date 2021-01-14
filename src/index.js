@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 ReactDOM.render(
   <div>
     <p>Created by Angela Yu</p>
-    <p>Copyright 2019.</p>
+    <p>Copyright 20200.</p>
   </div>,
   document.getElementById("root")
 );
